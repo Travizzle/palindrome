@@ -1,5 +1,5 @@
 # Phrase object (with palindrome detector)
----
+
 This is a sample NPM module created in [Learn Enough Javascript to Be Dangerous](https://www.learnenough.com/javascript-tutorial) by Travis Ireland.
 
 The module can be used as follows:
